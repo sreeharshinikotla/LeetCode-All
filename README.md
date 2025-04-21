@@ -45,6 +45,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sreeharshinikotla/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/sreeharshinikotla/LeetCode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
