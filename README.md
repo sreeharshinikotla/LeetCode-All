@@ -31,10 +31,7 @@ Happy coding! 😄
 
 
 # LeetCode Topics
-## String
-|  |
-| ------- |
-| [0038-count-and-say](https://github.com/sreeharshinikotla/LeetCode/tree/master/0038-count-and-say) |
+
 ## Array
 |  |
 | ------- |
@@ -58,4 +55,18 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sreeharshinikotla/LeetCode/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/sreeharshinikotla/LeetCode/tree/master/0038-count-and-say) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
