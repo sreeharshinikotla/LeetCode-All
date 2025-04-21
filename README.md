@@ -33,10 +33,7 @@ Happy coding! 😄
 # LeetCode Topics
 
 
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -61,6 +58,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/sreeharshinikotla/LeetCode/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
@@ -79,4 +77,12 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
