@@ -1,5 +1,35 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
+# 📘 My LeetCode Journey
+
+Hey there! 👋  
+This repository is where I’m tracking my progress on LeetCode — solving algorithm and data structure problems one step at a time. I'm using this as both a personal archive and a way to stay consistent and improve problem-solving skills.
+
+### 🧠 What You’ll Find Here
+
+- ✅ Clean and elagant solutions
+- 💻 Written mainly in **Java** 
+- 🔢 Covers a range of topics: arrays, strings, linked lists, trees, graphs, dynamic programming, backtracking, and more
+- 🌱 Actively updating as I solve more questions
+
+### 🗂 Folder Structure
+
+Each problem will have its own folder or file, named with the pattern: ProblemNumber-Problem-Name
+For example: 001-two-sum
+
+### 🚀 Why I'm Doing This
+
+Solving these problems helps me:
+- Sharpen my coding and logical thinking
+- Get better at interviews
+- Learn how to write clean, efficient code
+
+### 🙌 Contributions
+
+This is mostly for my own practice, but feel free to look around or even suggest improvements!
+
+Thanks for stopping by!  
+Happy coding! 😄  
+
+
 # LeetCode Topics
 ## String
 |  |
@@ -13,4 +43,3 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
