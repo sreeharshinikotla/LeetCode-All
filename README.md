@@ -56,6 +56,7 @@ Happy coding! 😄
 | ------- |
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Happy coding! 😄
 | [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sreeharshinikotla/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/sreeharshinikotla/LeetCode/tree/master/0038-count-and-say) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Happy coding! 😄
 | ------- |
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +91,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 <!---LeetCode Topics End-->
