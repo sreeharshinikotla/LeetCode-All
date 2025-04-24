@@ -78,6 +78,7 @@ Happy coding! 😄
 | ------- |
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Binary Search
@@ -92,6 +93,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,4 +102,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
