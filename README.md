@@ -58,6 +58,7 @@ Happy coding! 😄
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1500-count-largest-group](https://github.com/sreeharshinikotla/LeetCode/tree/master/1500-count-largest-group) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## String
 |  |
@@ -71,11 +72,13 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Binary Search
 |  |
