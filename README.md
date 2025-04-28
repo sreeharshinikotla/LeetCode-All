@@ -57,6 +57,7 @@ Happy coding! 😄
 | ------- |
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/sreeharshinikotla/LeetCode/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -80,6 +81,7 @@ Happy coding! 😄
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -87,6 +89,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +99,7 @@ Happy coding! 😄
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +112,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
