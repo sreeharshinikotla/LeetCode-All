@@ -69,6 +69,7 @@ Happy coding! 😄
 | [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sreeharshinikotla/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/sreeharshinikotla/LeetCode/tree/master/0038-count-and-say) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sreeharshinikotla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Sliding Window
 |  |
@@ -102,6 +103,7 @@ Happy coding! 😄
 | [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sreeharshinikotla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [2915-count-of-interesting-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sreeharshinikotla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
