@@ -6,7 +6,7 @@ class Solution {
             res.append(s.substring(j, spaces[i])).append(" ");
             j=spaces[i];
         }
-        res.append(s.substring(j,s.length()));
+        res.append(s.substring(j));
         return res.toString();
     }
 }
