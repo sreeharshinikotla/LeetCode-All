@@ -1,12 +1,12 @@
 class Solution {
     public String addSpaces(String s, int[] spaces) {
-        String[] words= new String[spaces.length+1];
+        StringBuilder res= new StringBuilder();
         int j=0;
         for(int i=0; i<spaces.length; i++){
-            words[i]= s.substring(j,spaces[i]);
+            res.append(s.substring(j, spaces[i])).append(" ");
             j=spaces[i];
         }
-        words[spaces.length]= s.substring(j,s.length()); 
-        return String.join(" ", words);
+        res.append(s.substring(j,s.length()));
+        return res.toString();
     }
 }
