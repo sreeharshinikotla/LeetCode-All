@@ -6,9 +6,7 @@ class Solution {
         while(i<str1.length()){
             s1= str1.charAt(i);
             s2= str2.charAt(j);
-            if(s1=='z' && s2!='z')
-                s1='a';
-            if(s1==s2 || (s1-'a'+1)==(s2-'a')){
+            if(s1==s2 || ((s1 - 'a' + 1) % 26 + 'a' == s2)){
                 i++;
                 j++;
                 if(j==str2.length()) return true;
