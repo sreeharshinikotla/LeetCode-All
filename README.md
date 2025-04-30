@@ -47,6 +47,7 @@ Happy coding! 😄
 | [0002-add-two-numbers](https://github.com/sreeharshinikotla/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sreeharshinikotla/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sreeharshinikotla/LeetCode/tree/master/0009-palindrome-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sreeharshinikotla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sreeharshinikotla/LeetCode/tree/master/1500-count-largest-group) |
 ## Recursion
 |  |
@@ -85,6 +86,7 @@ Happy coding! 😄
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sreeharshinikotla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/sreeharshinikotla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
