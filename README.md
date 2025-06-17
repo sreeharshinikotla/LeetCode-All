@@ -72,6 +72,7 @@ Happy coding! 😄
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sreeharshinikotla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sreeharshinikotla/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/sreeharshinikotla/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sreeharshinikotla/LeetCode/tree/master/0038-count-and-say) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sreeharshinikotla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/sreeharshinikotla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -151,4 +152,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sreeharshinikotla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sreeharshinikotla/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
