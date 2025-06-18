@@ -6,15 +6,14 @@ class Solution {
                 stack.push(c);
             }
             else{
-                char compare=' ';
-               if(!stack.isEmpty()) 
-               compare= stack.pop();
-               else return false;
-                if((c==')' && compare!='(')
-                || (c=='}' && compare!='{')
-                || (c==']' && compare!='[')
-                )
-                return false;
+                if(stack.isEmpty()) return false;
+                else{
+                    char curr = stack.pop();
+                    if((c== ')' && curr!='(') || 
+                    (c=='}' && curr!='{') || 
+                    (c==']' && curr!='[')) 
+                    return false;
+                }
             }
         }
         return stack.isEmpty();
