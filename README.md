@@ -50,6 +50,7 @@ Happy coding! 😄
 | [0326-power-of-three](https://github.com/sreeharshinikotla/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sreeharshinikotla/LeetCode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sreeharshinikotla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/sreeharshinikotla/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/sreeharshinikotla/LeetCode/tree/master/1500-count-largest-group) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sreeharshinikotla/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -151,6 +152,7 @@ Happy coding! 😄
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/sreeharshinikotla/LeetCode/tree/master/1448-maximum-69-number) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sreeharshinikotla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
