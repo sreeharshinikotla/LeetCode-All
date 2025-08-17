@@ -48,6 +48,7 @@ Happy coding! 😄
 | [0007-reverse-integer](https://github.com/sreeharshinikotla/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sreeharshinikotla/LeetCode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/sreeharshinikotla/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sreeharshinikotla/LeetCode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sreeharshinikotla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sreeharshinikotla/LeetCode/tree/master/1500-count-largest-group) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sreeharshinikotla/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -56,6 +57,7 @@ Happy coding! 😄
 | ------- |
 | [0002-add-two-numbers](https://github.com/sreeharshinikotla/LeetCode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/sreeharshinikotla/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sreeharshinikotla/LeetCode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,4 +160,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreeharshinikotla/LeetCode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sreeharshinikotla/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
