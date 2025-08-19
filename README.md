@@ -52,6 +52,7 @@ Happy coding! 😄
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sreeharshinikotla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/sreeharshinikotla/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/sreeharshinikotla/LeetCode/tree/master/1500-count-largest-group) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sreeharshinikotla/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ Happy coding! 😄
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sreeharshinikotla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/sreeharshinikotla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sreeharshinikotla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
