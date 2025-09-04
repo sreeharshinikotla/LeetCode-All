@@ -54,6 +54,7 @@ Happy coding! 😄
 | [1500-count-largest-group](https://github.com/sreeharshinikotla/LeetCode/tree/master/1500-count-largest-group) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sreeharshinikotla/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3830-find-closest-person](https://github.com/sreeharshinikotla/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
