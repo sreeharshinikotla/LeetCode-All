@@ -72,6 +72,7 @@ Happy coding! 😄
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sreeharshinikotla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sreeharshinikotla/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## String
 |  |
@@ -109,6 +110,7 @@ Happy coding! 😄
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sreeharshinikotla/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sreeharshinikotla/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sreeharshinikotla/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/sreeharshinikotla/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Binary Search
 |  |
