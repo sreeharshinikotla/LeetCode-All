@@ -123,6 +123,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/sreeharshinikotla/LeetCode/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,5 +173,6 @@ Happy coding! 😄
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sreeharshinikotla/LeetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/sreeharshinikotla/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
