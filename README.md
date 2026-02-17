@@ -67,6 +67,7 @@ Happy coding! 😄
 | ------- |
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeharshinikotla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/sreeharshinikotla/LeetCode/tree/master/0217-contains-duplicate) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sreeharshinikotla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/sreeharshinikotla/LeetCode/tree/master/1500-count-largest-group) |
@@ -101,6 +102,7 @@ Happy coding! 😄
 | [0001-two-sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sreeharshinikotla/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/sreeharshinikotla/LeetCode/tree/master/0217-contains-duplicate) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sreeharshinikotla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sreeharshinikotla/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sreeharshinikotla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -147,6 +149,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0018-4sum](https://github.com/sreeharshinikotla/LeetCode/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/sreeharshinikotla/LeetCode/tree/master/0217-contains-duplicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sreeharshinikotla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sreeharshinikotla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
